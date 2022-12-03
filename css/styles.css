@@ -186,7 +186,7 @@ img {
         bottom: 0px;
         width: 48px;
         height: 4px;
-        background-color: #2196F3;
+        background-color: var(--accent--header--color--);
         background-size: auto;
         border-radius: 2px;
 
